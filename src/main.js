@@ -10,6 +10,8 @@
 //--Crab walks at the bottom and is faster + worth more points 
 //Total points: 100
 
+//Sounds obtained from Freesound.org, links provided when imported and also in README on Github
+
 let config = {
     type: Phaser.CANVAS,
     width: 640,
